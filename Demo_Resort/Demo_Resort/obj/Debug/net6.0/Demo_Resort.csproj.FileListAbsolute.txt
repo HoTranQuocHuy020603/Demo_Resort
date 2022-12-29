@@ -1,0 +1,106 @@
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.csproj.AssemblyReference.cache
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.AssemblyInfoInputs.cache
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.AssemblyInfo.cs
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.csproj.CoreCompileInputs.cache
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.MvcApplicationPartsAssemblyInfo.cs
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.MvcApplicationPartsAssemblyInfo.cache
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\appsettings.Development.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\appsettings.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Demo_Resort.exe
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Demo_Resort.deps.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Demo_Resort.runtimeconfig.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Demo_Resort.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Demo_Resort.pdb
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Humanizer.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\MySql.Data.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\ZstdNet.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\staticwebassets.build.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\staticwebassets.development.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\scopedcss\bundle\Demo_Resort.styles.css
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.csproj.CopyComplete
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\refint\Demo_Resort.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.pdb
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.genruntimeconfig.cache
+D:\Study File\Day 7. Thiet ke va lap trinh web\Demo_Resort\Demo_Resort\obj\Debug\net6.0\ref\Demo_Resort.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\appsettings.Development.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\appsettings.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Demo_Resort.exe
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Demo_Resort.deps.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Demo_Resort.runtimeconfig.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Demo_Resort.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Demo_Resort.pdb
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Humanizer.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\MySql.Data.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\ZstdNet.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.csproj.AssemblyReference.cache
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.AssemblyInfoInputs.cache
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.AssemblyInfo.cs
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.csproj.CoreCompileInputs.cache
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.MvcApplicationPartsAssemblyInfo.cs
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.MvcApplicationPartsAssemblyInfo.cache
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\staticwebassets.build.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\staticwebassets.development.json
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\scopedcss\bundle\Demo_Resort.styles.css
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.csproj.CopyComplete
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\refint\Demo_Resort.dll
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.pdb
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\Demo_Resort.genruntimeconfig.cache
+D:\Study File\Day 7. Thiet ke va lap trinh web\Folder of Demo_Resort\Demo_Resort\Demo_Resort\obj\Debug\net6.0\ref\Demo_Resort.dll
