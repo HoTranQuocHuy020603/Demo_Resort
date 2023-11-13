@@ -19,11 +19,11 @@ This is a resort management project write by C# code style with MySQl for databa
 - Step 2: Unzip the project to a folder where the file you want to add.
   
 ***Project launch***
-`*FrontEnd code*`
-- Step 1: Open the Eclipse application.
-- Step 2: Add project in to Eclipse.
-- Step 3: Click in project folder.
-- Step 4: Open .jsp file and run it on server, example path: `src/main/webapp/home.jsp `
+- *FrontEnd code*
+> Step 1: Open the Eclipse application.
+> Step 2: Add project in to Eclipse.
+> Step 3: Click in project folder.
+> Step 4: Open .jsp file and run it on server, example path: `src/main/webapp/home.jsp `
 ## Find me here:
 - Contact with Gmail: `hotranquochuy0306@gmail.com`
 - Github: [https://github.com/HoTranQuocHuy020603](https://github.com/HoTranQuocHuy020603/)
