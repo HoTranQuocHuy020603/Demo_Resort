@@ -1,7 +1,7 @@
 # File description: 
-- Project folder data file ( Demo_Resort.rar). --BackEnd--
+- Project folder data file ( Demo_Resort). --BackEnd--
 - Project interface compressed data file ( src.rar). --FrontEnd--Angular--
-- Database script note file ( SQL DATA).
+- Database script note file ( SQL DATA.txt).
 - Note file ( README.md).
 # Demo_Resort
 This is a resort management project write by C# code style with MySQl for database , with the purpose of helping users as well as managers and employees to grasp the list and basic information about the , view personal information, booking schedules,... with other functions corresponding to the permissions of the access account.
@@ -11,8 +11,9 @@ This is a resort management project write by C# code style with MySQl for databa
 - Search for information in the displayed list.
 ## Prerequisites:
 > Before continuing, make sure you meet the following requirements:
-> * You have installed Eclipse IDE for Enterprise Java and Web Developers and MySQL.
-> * You have downloaded support library: JRE System Library ( project JRE is JavaSE-16), Maven Dependencies and Server Runtime ( project server is apache-tomcat 9.0.65).
+> * You have installed Visual Studio, Visual Studio Code and MySQL.
+> * You have downloaded support library: 
+>             ** Visual Studio Code: Angular 11, NodeJs.
 ## How to install the project ?
 ***Download project***
 - Step 1: Download the project to your computer.
