@@ -19,11 +19,14 @@ This is a resort management project write by C# code style with MySQl for databa
 - Step 2: Unzip the project to a folder where the file you want to add.
   
 ***Project launch***
-- *FrontEnd code*
-> Step 1: Open the Eclipse application.
-> Step 2: Add project in to Eclipse.
-> Step 3: Click in project folder.
-> Step 4: Open .jsp file and run it on server, example path: `src/main/webapp/home.jsp `
+- *BackEnd*
+> * Step 1: Open file Demo_Resort.sln with Visual Studio application.
+> * Step 2: Run it.
+- *FrontEnd*
+> * Step 1: Open the Visual Studio Code application.
+> * Step 2: Choose the folder you want to add GUI code and open this folder terminal.
+> * Step 3:
+> *       - `ng new GUI-name`
 ## Find me here:
 - Contact with Gmail: `hotranquochuy0306@gmail.com`
 - Github: [https://github.com/HoTranQuocHuy020603](https://github.com/HoTranQuocHuy020603/)
