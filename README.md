@@ -28,8 +28,8 @@ This is a resort management project write by C# code style with MySQl for databa
 - Step 1: Open the Visual Studio Code application.
 - Step 2: Choose the folder you want to add GUI code and open this folder terminal.
 - Step 3: Create and Build basic Angular project on a development server, go to the parent directory of your new workspace use the following command:
-    ng new GUI-project //Create
-    cd my-first-project //Build
+>     ng new GUI-project //Create
+>     cd my-first-project //Build
 > * Step 4: Replace src folder on this new project to src file dowloaded (the file was unzip).
 > * Step 5: Run this GUI project in terminal by this following command:    ng s
 ## Find me here:
