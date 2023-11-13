@@ -26,7 +26,7 @@ This is a resort management project write by C# code style with MySQl for databa
 > * Step 1: Open the Visual Studio Code application.
 > * Step 2: Choose the folder you want to add GUI code and open this folder terminal.
 > * Step 3:
-> `ng new GUI-name`
+> * ng new GUI-name
 ## Find me here:
 - Contact with Gmail: `hotranquochuy0306@gmail.com`
 - Github: [https://github.com/HoTranQuocHuy020603](https://github.com/HoTranQuocHuy020603/)
