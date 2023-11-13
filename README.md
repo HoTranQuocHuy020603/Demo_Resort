@@ -12,7 +12,7 @@ This is a resort management project write by C# code style with MySQl for databa
 ## Prerequisites:
 > Before continuing, make sure you meet the following requirements:
 > * You have installed Visual Studio, Visual Studio Code and MySQL.
-> * You have downloaded support library: 
+> * You have downloaded support framework: 
 >             ** Visual Studio Code: Angular 11, NodeJs.
 ## How to install the project ?
 ***Download project***
