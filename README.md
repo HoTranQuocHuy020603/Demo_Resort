@@ -19,10 +19,12 @@ This is a resort management project write by C# code style with MySQl for databa
 - Step 2: Unzip the project to a folder where the file you want to add.
   
 ***Project launch***
-- *BackEnd*
+
+ *BackEnd*
 > * Step 1: Open file Demo_Resort.sln with Visual Studio application.
 > * Step 2: Run it.
-- *FrontEnd*
+ *FrontEnd*
+
 > * Step 1: Open the Visual Studio Code application.
 > * Step 2: Choose the folder you want to add GUI code and open this folder terminal.
 > * Step 3: Create and Build basic Angular project on a development server, go to the parent directory of your new workspace use the following command:
