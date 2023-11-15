@@ -33,8 +33,8 @@ This is a resort management project write by C# code style, MySQl for the databa
 - Step 4: Replace src folder on this new project to src file dowloaded (the file was unzip).
 - Step 5: Run this GUI project in terminal by this following command:
 >     ng s
-## Video demo some interfaces of project:
-- Link video: https://www.youtube.com/playlist?list=PLKzhg0xSeF_vBxpiKs4zIJrPNOF_hCD5E
+## List of video demo some interfaces of project:
+- Link: https://www.youtube.com/playlist?list=PLKzhg0xSeF_vBxpiKs4zIJrPNOF_hCD5E
 ## Find me here:
 - Contact with Gmail: `hotranquochuy0306@gmail.com`
 - Github: [https://github.com/HoTranQuocHuy020603](https://github.com/HoTranQuocHuy020603/)
