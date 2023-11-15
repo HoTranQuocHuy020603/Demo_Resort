@@ -34,8 +34,14 @@ This is a resort management project write by C# code style, MySQl for the databa
 - Step 5: Run this GUI project in terminal by this following command:
 >     ng s
 ## Some  of the project:
+- Index page:
 ![image](https://github.com/HoTranQuocHuy020603/Demo_Resort/assets/89513083/b770e707-98a1-4d49-a309-85b89de995b6)
+- About page:
+![image](https://github.com/HoTranQuocHuy020603/Demo_Resort/assets/89513083/def16d7f-21e8-4680-81e9-ac84102bda3f)
+- SignUp and SingIn:
 
+<img src="[https://...](https://github.com/HoTranQuocHuy020603/Demo_Resort/assets/89513083/6a8bb295-1c0a-4e2b-a835-0e40e48ea439)" width="250" />
+- 
 ## Find me here:
 - Contact with Gmail: `hotranquochuy0306@gmail.com`
 - Github: [https://github.com/HoTranQuocHuy020603](https://github.com/HoTranQuocHuy020603/)
